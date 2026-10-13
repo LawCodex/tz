@@ -29,7 +29,7 @@ constitution/katiba-1977.md  Constitution (Kiswahili)
 ```
 
 File names are slugs of the Act titles (English title, or Kiswahili title for Acts published in Kiswahili —
-since 2015 most Acts are enacted in Kiswahili). Front matter: `language` is `en` or `sw` (detected from the text),
+recent Acts are increasingly enacted in Kiswahili; 27 files are in Kiswahili). Front matter: `language` is `en` or `sw` (detected from the text),
 `identifier` is the Act number (`Act No. N of YYYY`), `note` says whether the text is a revised edition or the Act
 as enacted, and flags OCR. Divisions (`PART`/`SEHEMU`) and sections (`Section N` / `Kifungu N`) become headings;
 the arrangement of sections is dropped.
