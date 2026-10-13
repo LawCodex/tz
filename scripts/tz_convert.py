@@ -46,7 +46,31 @@ def clean_title(t):
     return t
 
 
+CONST_URL = ("https://www.parliament.go.tz/uploads/documents/sw-1761661604-KATIBA%20YA%20JAMHURI%20YA%20MUUNGANO"
+             "%20WA%20TANZANIA%20YA%20MWAKA%201977%20(2).pdf")
+
+
+def constitution():
+    pdf = os.path.join(RAW, "const", "katiba-1977.pdf")
+    T.fetch(CONST_URL, pdf, delay=2, check_pdf=True)
+    if not os.path.exists(pdf) or not T.pdf_ok(pdf):
+        print("constitution missing")
+        return
+    pages, ocr = T.pdf_text(pdf, "eng", ocr=False)
+    lines = T.clean_pages(pages)
+    idx = [i for i, x in enumerate(lines) if x.strip() == "UTANGULIZI"]
+    if len(idx) >= 2:  # drop the table of contents (YALIYOMO): body starts at the 2nd "UTANGULIZI"
+        lines = lines[idx[1]:]
+    body = T.structure(lines, "en", art_word="Ibara")
+    meta = {"title": "Katiba ya Jamhuri ya Muungano wa Tanzania ya Mwaka 1977", "identifier": "Katiba ya 1977",
+            "type": "constitution", "jurisdiction": "tz", "language": "sw", "date": "1977-04-25", "status": "in_force",
+            "source": CONST_URL, "source_page": "https://www.parliament.go.tz/documents/constitution-of-tanzania",
+            "retrieved": RETRIEVED, "note": "Text as published by the Parliament of Tanzania (consolidated version incorporating amendments up to its date of publication)."}
+    T.write_md(os.path.join(REPO, "constitution", "katiba-1977.md"), meta, meta["title"], body)
+
+
 def main():
+    constitution()
     acts = json.load(open(os.path.join(RAW, "acts.json")))["data"]
     n = skipped = 0
     seen = set()

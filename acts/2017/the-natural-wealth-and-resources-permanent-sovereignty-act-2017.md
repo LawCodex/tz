@@ -35,7 +35,7 @@ AND WHEREAS, the United Republic being a sovereign state has permanent sovereign
 
 2017
 
-### PART I — PRELIMINARY PROVISIONS
+## PART I — PRELIMINARY PROVISIONS
 
 Short title and commencement
 
@@ -59,7 +59,7 @@ In this Act, unless the context otherwise requires“arrangement or agreement”
 
 Economic Zone which can be extracted, exploited or acquired and used for economic gain whether processed or not; and “national jurisdiction” means the authority of judicial system in the United Republic to administer justice over things and persons within the United Republic.
 
-### PART II — PERMANENT SOVEREIGNTY OVER NATURAL WEALTH AND RESOURCES
+## PART II — PERMANENT SOVEREIGNTY OVER NATURAL WEALTH AND RESOURCES
 
 Proclamation of permanent sovereignty
 
@@ -123,7 +123,7 @@ Retention of earnings
 
 (2) For the purpose of subsection (1), it shall be unlawful to keep such earnings in banks or financial institutions outside the United Republic except where distributed profits are repatriated in accordance with the laws of Tanzania.
 
-### PART III — PROTECTION OF PERMANENT SOVEREIGNTY
+## PART III — PROTECTION OF PERMANENT SOVEREIGNTY
 
 Prohibition of proceedings in foreign courts
 
@@ -175,7 +175,7 @@ Considering that the provision of economic and technical assistance, loans and i
 
 Noting that the creation and strengthening of the inalienable sovereignty of States over their natural wealth and resources reinforces their economic independence, Desiring that there should be further consideration by the United Nations of the subject of permanent sovereignty over natural resources in the spirit of international co-operation in the field of economic development, particularly that of the developing countries.
 
-### PART I — Declares that:
+## PART I — Declares that:
 
 1\. The right of peoples and nations to permanent sovereignty over their natural wealth and resources must be exercised in the interest of their national development and of the well-being of the people of the State concerned. 2. The exploration, development and disposition of such resources, as well as the import of the foreign capital required for these purposes, should be in conformity with the rules and conditions which the peoples and nations freely consider to be necessary or desirable with regard to the authorization, restriction or prohibition of such activities. 3. In cases where authorization is granted, the capital imported and the earnings on that capital shall be governed by the terms thereof, by the national legislation in force, and by international law. The profits derived must be shared in the proportions freely agreed upon, in each case, between the investors and the recipient State, due care being taken to ensure that there is no impairment, for any reason, of that State’s sovereignty over its natural wealth and resources.
 
@@ -185,11 +185,11 @@ Noting that the creation and strengthening of the inalienable sovereignty of Sta
 
 arbitration or international adjudication. 5. The free and beneficial exercise of the sovereignty of peoples and nations over their natural resources must be furthered by the mutual respect of States based on their sovereign equality. 6. International co-operation for the economic development of developing countries, whether in the form of public or private capital investments, exchange of goods and services, technical assistance, or exchange of scientific information, shall be such as to further their independent national development and shall be based upon respect for their sovereignty over their natural wealth and resources. 7. Violation of the rights of peoples and nations to sovereignty over their natural wealth and resources is contrary to the spirit and principles of the Charter of the United Nations and hinders the development of international co-operation and the maintenance of peace. 8. Foreign investment agreements freely entered into by or between sovereign States shall be observed in good faith; States and international organizations shall strictly and conscientiously respect the sovereignty of peoples and nations over their natural wealth and resources in accordance with the Charter and the principles set forth in the present resolution.
 
-### PART II — Welcomes the decision of the International Law Commission to speed up its work on
+## PART II — Welcomes the decision of the International Law Commission to speed up its work on
 
 the codification of the topic of responsibility of States for the consideration of the General Assembly.
 
-### PART III — Requests the Secretary-General to continue the study of the various aspects of
+## PART III — Requests the Secretary-General to continue the study of the various aspects of
 
 permanent sovereignty over natural resources, taking into account the desire of Member States to ensure the protection of their sovereign rights while encouraging international co-operation in the field of economic development, and to report to the Economic and Social Council and to the General Assembly, if possible at its eighteenth session. ___________
 
@@ -231,7 +231,7 @@ AFFIRMING the need for strengthening international co-operation for development,
 
 REITERATING that the responsibility for the development of every country rests primarily upon itself but that concomitant and effective international cooperation is an essential factor for the full achievement of its own development goals. FIRMLY CONVINCED of the urgent need to evolve a substantially improved system of international economic relations, SOLEMNLY ADOPTS the present Charter of Economic Rights and Duties of States.
 
-## CHAPTER I — Fundamentals of international economic relations
+### CHAPTER I — Fundamentals of international economic relations
 
 Economic as well as political and other relations among States shall be governed, inter alia, by the following principles:
 
@@ -265,7 +265,7 @@ Economic as well as political and other relations among States shall be governed
 
 (o) Free access to and from the sea by land-locked countries within the framework of the above principles.
 
-## CHAPTER II — Economic rights and duties of states
+### CHAPTER II — Economic rights and duties of states
 
 Article 1 Every State has the sovereign and inalienable right to choose its economic system as well as it political, social and cultural systems in accordance with the will of its people, without outside interference, coercion or threat in any form whatsoever. Article 2 1. Every State has and shall freely exercise full permanent sovereignty, including possession, use and disposal, over all its wealth, natural resources and economic activities. 2. Each State has the right:
 

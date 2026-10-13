@@ -353,7 +353,7 @@ def structure(lines, lang="en", art_word="Section"):
         d = _div(x, levels)
         if d and d[0] not in used:
             used.append(d[0])
-    order = [n for n, _ in levels if n in used]
+    order = list(used) if lang == "en" else [n for n, _ in levels if n in used]
     lvl = {n: min(2 + k, 5) for k, n in enumerate(order)}
     art_level = min(2 + len(order), 6)
     out = []

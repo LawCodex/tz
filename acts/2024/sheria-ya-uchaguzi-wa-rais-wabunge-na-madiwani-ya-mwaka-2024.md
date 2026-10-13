@@ -29,7 +29,7 @@ Rais [7 Machi, 2024]
 
 Sheria inayoweka masharti ya kusimamia uchaguzi wa Rais, Wabunge na Madiwani, kufuta Sheria ya Taifa ya Uchaguzi, 1985 na Sheria ya Uchaguzi ya Serikali za Mitaa, 1979 na kuweka masharti mengine yanayohusiana na hayo. IMETUNGWA na Bunge la Jamhuri ya Muungano wa Tanzania.
 
-### SURA YA KWANZA — MASHARTI YA UTANGULIZI
+## SURA YA KWANZA — MASHARTI YA UTANGULIZI
 
 Jina na tarehe ya kuanza kutumika
 
@@ -175,9 +175,9 @@ husika.
 
 (2) Mtu yeyote mwenye wadhifa katika ofisi ya umma, atakapohitajika na Tume, Mkurugenzi wa Uchaguzi, msimamizi wa uchaguzi, msimamizi msaidizi wa uchaguzi au mratibu wa uchaguzi wa mkoa, atasaidia au atatekeleza jukumu lingine lolote kama itakavyohitajika kwa madhumuni ya kuwezesha uendeshaji wa uchaguzi.
 
-### SURA YA PILI — UANDIKISHAJI WA WAPIGA KURA
+## SURA YA PILI — UANDIKISHAJI WA WAPIGA KURA
 
-## SEHEMU YA KWANZA — SIFA NA KUKOSA SIFA ZA KUANDIKISHWA KUWA MPIGA KURA NA KUPIGA KURA
+### SEHEMU YA KWANZA — SIFA NA KUKOSA SIFA ZA KUANDIKISHWA KUWA MPIGA KURA NA KUPIGA KURA
 
 Sifa za kuandikishwa
 
@@ -273,7 +273,7 @@ hiyo katika kituo kilichoainishwa kwenye hati hiyo, iwe mgombea huyo ameandikish
 
 Mtu aliyeandikishwa kuwa mpiga kura ambaye jina lake limebadilika kutokana na ndoa au kwa sababu nyingine yoyote baada ya kuandikishwa, iwapo hajapoteza sifa za kupiga kura chini ya kifungu cha 14, atastahili kupiga kura kwa jina ambalo ameandikishwa.
 
-## SEHEMU YA PILI — UANDIKISHAJI WA WAPIGA KURA
+### SEHEMU YA PILI — UANDIKISHAJI WA WAPIGA KURA
 
 Muda wa uandikishaji
 
@@ -373,7 +373,7 @@ Mahakama ya Mwanzo dhidi ya kukataliwa huko ndani ya siku kumi na nne baada ya k
 
 (4) Mahakama ya Mwanzo itatoa uamuzi wa rufaa ndani ya siku kumi na nne tangu siku rufaa ilipowasilishwa.
 
-## SEHEMU YA TATU — PINGAMIZI DHIDI YA UANDIKISHAJI AU KUENDELEA KUANDIKISHWA
+### SEHEMU YA TATU — PINGAMIZI DHIDI YA UANDIKISHAJI AU KUENDELEA KUANDIKISHWA
 
 Ukaguzi wa Daftari la Awali la Wapiga Kura
 
@@ -441,7 +441,7 @@ kubakiza jina la mtu aliyewekewa pingamizi katika Daftari la Awali la Wapiga Kur
 
 (2) Mahakama ya Mwanzo itatoa uamuzi wa rufaa ndani ya siku kumi na nne tangu siku rufaa ilipowasilishwa.
 
-## SEHEMU YA NNE — RUFAA NA KUONGEZWA AU KUFUTWA KATIKA DAFTARI LA AWALI LA WAPIGA KURA
+### SEHEMU YA NNE — RUFAA NA KUONGEZWA AU KUFUTWA KATIKA DAFTARI LA AWALI LA WAPIGA KURA
 
 Rufaa kwenda Mahakama ya Mwanzo
 
@@ -481,9 +481,9 @@ kifungu hiki kwa utaratibu unaofanana kwa karibu na mazingira ya uendeshaji wa k
 
 mwandikishaji atakavyoelekeza, na afisa mwandikishaji ataelekeza kufutwa kwa kadi yoyote iliyorejeshwa.
 
-### SURA YA TATU — UCHAGUZI WA RAIS
+## SURA YA TATU — UCHAGUZI WA RAIS
 
-## SEHEMU YA KWANZA — UTEUZI WA WAGOMBEA WA KITI CHA RAIS NA MAKAMU WA RAIS
+### SEHEMU YA KWANZA — UTEUZI WA WAGOMBEA WA KITI CHA RAIS NA MAKAMU WA RAIS
 
 Uteuzi wa wagombea wa kiti cha Rais na Makamu wa Rais
 
@@ -641,7 +641,7 @@ nyingine ya uteuzi; au
 
 (2) Endapo siku nyingine ya uteuzi itapangwa chini ya kifungu hiki, Tume itapanga siku nyingine ya uchaguzi wa Rais na taratibu husika zitaanza upya, isipokuwa kwamba hakutakuwa na uteuzi mpya utakaohitajika kwa wagombea wengine wa kiti cha Rais kama wapo.
 
-## SEHEMU YA PILI — TARATIBU ZA UCHAGUZI WA URAIS NA SIFA ZA MGOMBEA
+### SEHEMU YA PILI — TARATIBU ZA UCHAGUZI WA URAIS NA SIFA ZA MGOMBEA
 
 Siku ya uchaguzi wa Rais
 
@@ -745,9 +745,9 @@ Uchaguzi wa Rais kuchukuliwa kuwa uchaguzi wa Makamu wa Rais
 
 Endapo mgombea wa kiti cha Rais atatangazwa kuwa amechaguliwa, mgombea mwenza atachukuliwa kuwa amechaguliwa kuwa Makamu wa Rais.
 
-### SURA YA NNE — UCHAGUZI WA WABUNGE
+## SURA YA NNE — UCHAGUZI WA WABUNGE
 
-## SEHEMU YA KWANZA — SIFA ZA MGOMBEA UBUNGE
+### SEHEMU YA KWANZA — SIFA ZA MGOMBEA UBUNGE
 
 Sifa za wagombea katika uchaguzi wa ubunge
 
@@ -755,7 +755,7 @@ Sifa za wagombea katika uchaguzi wa ubunge
 
 Mtu hatakuwa na sifa ya kuwa mgombea katika uchaguzi wa Ubunge au kuchaguliwa kuwa Mbunge isipokuwa kama atakuwa na sifa za kuchaguliwa kuwa Mbunge kwa mujibu wa masharti ya Ibara ya 67 ya Katiba.
 
-## SEHEMU YA PILI — UTEUZI WA WAGOMBEA
+### SEHEMU YA PILI — UTEUZI WA WAGOMBEA
 
 Siku ya uteuzi
 
@@ -905,9 +905,9 @@ Picha
 
 (2) Picha ya mgombea itakayooneshwa wakati wa kampeni za uchaguzi itakuwa chini ya usimamizi wa msimamizi wa uchaguzi.
 
-### SURA YA TANO — UCHAGUZI WA MADIWANI
+## SURA YA TANO — UCHAGUZI WA MADIWANI
 
-## SEHEMU YA KWANZA — KUENDESHA UCHAGUZI NA MUDA WA KUWEPO MADARAKANI KWA MADIWANI
+### SEHEMU YA KWANZA — KUENDESHA UCHAGUZI NA MUDA WA KUWEPO MADARAKANI KWA MADIWANI
 
 Uchaguzi wa madiwani
 
@@ -951,7 +951,7 @@ Uchaguzi mdogo
 
 (3) Endapo nafasi wazi itatokea ndani ya miezi kumi na mbili kabla ya tarehe ya kawaida ya kumalizika kwa muda wa mjumbe ambaye nafasi yake iko wazi, uteuzi au uchaguzi hautafanyika kujaza nafasi hiyo, isipokuwa nafasi hiyo itajazwa katika uteuzi au uchaguzi wa madiwani utakaofuata.
 
-## SEHEMU YA PILI — SIFA ZA WAGOMBEA UDIWANI
+### SEHEMU YA PILI — SIFA ZA WAGOMBEA UDIWANI
 
 Sifa za mgombea
 
@@ -1011,7 +1011,7 @@ Sura ya 380
 
 (b) adhabu ya kifungo iliyotolewa kama mbadala wa kulipa faini au kwa kushindwa kulipa faini haitazingatiwa.
 
-## SEHEMU YA TATU — UTEUZI WA WAGOMBEA UDIWANI
+### SEHEMU YA TATU — UTEUZI WA WAGOMBEA UDIWANI
 
 Siku ya uteuzi
 
@@ -1159,9 +1159,9 @@ Picha
 
 (2) Picha ya mgombea itakayooneshwa wakati wa kampeni za uchaguzi itakuwa chini ya usimamizi wa msimamizi wa uchaguzi.
 
-### SURA YA SITA — UCHAGUZI, UTARATIBU WA KUPIGA KURA NA UTEUZI WA WABUNGE NA MADIWANI WANAWAKE VITI MAALUMU
+## SURA YA SITA — UCHAGUZI, UTARATIBU WA KUPIGA KURA NA UTEUZI WA WABUNGE NA MADIWANI WANAWAKE VITI MAALUMU
 
-## SEHEMU YA KWANZA — SIKU YA UCHAGUZI
+### SEHEMU YA KWANZA — SIKU YA UCHAGUZI
 
 Wagombea walioteuliwa na siku ya uchaguzi
 
@@ -1203,7 +1203,7 @@ kidogo cha (3);
 
 (1)(a), muda wa kuanza kupiga kura utakuwa saa mbili kamili asubuhi na muda wa kufungwa kwa upigaji kura utakuwa ni saa kumi na mbili kamili jioni, isipokuwa kama Tume itaelekeza vinginevyo.
 
-## SEHEMU YA PILI — KUJITOA, KIFO AU KUTOKUWEPO KWA WAGOMBEA
+### SEHEMU YA PILI — KUJITOA, KIFO AU KUTOKUWEPO KWA WAGOMBEA
 
 Kujitoa au kukoma kwa ugombea
 
@@ -1233,7 +1233,7 @@ Endapo baada ya siku ya uteuzi kwa sababu ya kifo, kujitoa au kwa sababu nyingin
 
 na taratibu za uchaguzi katika jimbo au kata hiyo zitaanza upya.
 
-## SEHEMU YA TATU — KAMPENI ZA UCHAGUZI
+### SEHEMU YA TATU — KAMPENI ZA UCHAGUZI
 
 Kampeni za uchaguzi
 
@@ -1265,7 +1265,7 @@ kwa madhumuni ya kuwezesha kampeni za uchaguzi za mgombea katika siku yoyote ya 
 
 (4) Kwa madhumuni ya utekelezaji wa kifungu hiki, Tume inaweza kutoa maelekezo kwa maandishi ambayo yatapaswa kuzingatiwa na chombo chochote cha habari kinachomilikiwa na Serikali.
 
-## SEHEMU YA NNE — UTARATIBU WA UCHAGUZI
+### SEHEMU YA NNE — UTARATIBU WA UCHAGUZI
 
 Siku na muda wa kupiga kura
 
@@ -1343,7 +1343,7 @@ Kila karatasi ya kura(a) itakuwa na(i) jina kamili la mgombea;
 
 Mtu aliyepiga kura katika uchaguzi hatatakiwa, katika mwenendo wowote wa mashauri ya kuhoji matokeo ya uchaguzi, kueleza ni mgombea yupi alimpigia kura: Isipokuwa kwamba, kifungu hiki hakitatumika katika mwenendo wa shauri lolote ambalo hoja inayobishaniwa ni iwapo msimamizi wa kituo katika kutekeleza majukumu chini ya masharti ya kifungu cha 84(3)(b), (c) na (i) alitenda hivyo kwa nia njema.
 
-## SEHEMU YA TANO — UTARATIBU WA KUPIGA NA KUHESABU KURA
+### SEHEMU YA TANO — UTARATIBU WA KUPIGA NA KUHESABU KURA
 
 Watu wanaostahili kupiga kura
 
@@ -1845,7 +1845,7 @@ Isipokuwa kwamba, kwa kuzingatia maelekezo yoyote ya Tume kwa ajili hiyo, sanduk
 
 (f) kuhesabu kura kwa chaguzi hizo tatu kutafanyika kwa kutenganishwa.
 
-## SEHEMU YA SITA — UTEUZI WA WABUNGE NA MADIWANI WANAWAKE WA VITI MAALUMU
+### SEHEMU YA SITA — UTEUZI WA WABUNGE NA MADIWANI WANAWAKE WA VITI MAALUMU
 
 Uteuzi wa wabunge wanawake wa viti maalumu
 
@@ -1899,9 +1899,9 @@ Sheria ya Serikali za Mitaa (Mamlaka za Wilaya) na Sheria ya Serikali za Mitaa (
 
 wanawake wakati wa kipindi chote cha miaka mitano baada ya uchaguzi mkuu: Isipokuwa kwamba, inapotokea orodha ya majina iliyowasilishwa kwa Tume imemalizika, Tume itakitaka chama husika kuwasilisha orodha ya nyongeza ya majina ya wagombea wanawake viti maalumu wanaopendekezwa kwa ajili ya uteuzi.
 
-### SURA YA SABA — MAKOSA NA ADHABU
+## SURA YA SABA — MAKOSA NA ADHABU
 
-## SEHEMU YA KWANZA — MAKOSA YANAYOHUSU UANDIKISHAJI NA UTEUZI
+### SEHEMU YA KWANZA — MAKOSA YANAYOHUSU UANDIKISHAJI NA UTEUZI
 
 Makosa yanayohusu uandikishaji
 
@@ -2025,7 +2025,7 @@ Vishawishi vya rushwa kwa ajili ya kujitoa
 
 Mtu atakayemshawishi au kumsababishia mtu mwingine kujitoa kuwa mgombea katika uchaguzi kwa malipo au kwa ahadi ya malipo na mtu yeyote ambaye atajitoa kutokana na vishawishi au ahadi hizo, anatenda kosa la kitendo cha rushwa na iwapo atatiwa hatiani atatumikia kifungo kwa kipindi kisichopungua mwaka mmoja na kisichozidi miaka mitano.
 
-## SEHEMU YA PILI — MAKOSA MENGINEYO YA UCHAGUZI
+### SEHEMU YA PILI — MAKOSA MENGINEYO YA UCHAGUZI
 
 Makosa mengineyo
 
@@ -2141,9 +2141,9 @@ Kuchafua matangazo
 
 Mtu ambaye bila mamlaka halali, anaharibu, anakata, anachafua au anaondoa tangazo lolote ambalo limewekwa kwa mujibu wa Sheria hii au nyaraka yoyote ambayo imewekwa kwa ajili ya ukaguzi kwa kuzingatia masharti ya Sheria hii, anatenda kosa na akitiwa hatiani atawajibika kulipa faini isiyopungua shilingi elfu thelathini na isiyozidi shilingi laki moja au kifungo kwa kipindi kisichopungua mwezi mmoja na kisichozidi miezi sita au vyote kwa pamoja.
 
-### SURA YA NANE — KUPINGA MATOKEO YA UCHAGUZI KWA NJIA YA SHAURI LA UCHAGUZI
+## SURA YA NANE — KUPINGA MATOKEO YA UCHAGUZI KWA NJIA YA SHAURI LA UCHAGUZI
 
-## SEHEMU YA KWANZA — SHAURI LA UCHAGUZI KUPINGA MATOKEO YA UBUNGE
+### SEHEMU YA KWANZA — SHAURI LA UCHAGUZI KUPINGA MATOKEO YA UBUNGE
 
 Kupinga matokeo ya uchaguzi kwa njia ya shauri la uchaguzi
 
@@ -2173,7 +2173,7 @@ Kupinga matokeo ya uchaguzi kwa njia ya shauri la uchaguzi
 
 Endapo katika uchaguzi imethibitika kuwa kosa lolote la hongo, takrima, kitendo cha rushwa au kitendo haramu lilitendwa kwa kujua au kuendelezwa na mjumbe au afisa wa Tume au na mtu anayetekeleza majukumu kwa maelekezo ya Tume, mjumbe au afisa au mtu huyo mwingine akitiwa hatiani atatumikia kifungo kwa kipindi kisichozidi miaka mitano.
 
-## SEHEMU YA PILI — UTARATIBU NA MAMLAKA YA MAHAKAMA KUU
+### SEHEMU YA PILI — UTARATIBU NA MAMLAKA YA MAHAKAMA KUU
 
 Mashauri yanayosikilizwa na Mahakama Kuu
 
@@ -2311,7 +2311,7 @@ kushawishiwa;
 
 (2) Kanuni zitakazotungwa chini ya Sura hii zitachapishwa katika Gazeti la Serikali.
 
-## SEHEMU YA TATU — SHAURI LA UCHAGUZI KUPINGA MATOKEO YA UDIWANI
+### SEHEMU YA TATU — SHAURI LA UCHAGUZI KUPINGA MATOKEO YA UDIWANI
 
 Kupinga matokeo ya uchaguzi kwa njia ya mashauri ya uchaguzi
 
@@ -2449,7 +2449,7 @@ Jaji Mkuu kwa kushauriana na Tume anaweza kutunga kanuni za mahakama kusimamia t
 
 maombi chini ya Sehemu hii.
 
-### SURA YA TISA — MASHARTI YA JUMLA
+## SURA YA TISA — MASHARTI YA JUMLA
 
 Maelezo yasiyo sahihi
 
@@ -2551,7 +2551,7 @@ Matumizi ya teknolojia
 
 Tume inaweza kutumia teknolojia katika utekelezaji wa majukumu yake chini ya Sheria hii.
 
-### SURA YA KUMI — KUFUTWA KWA SHERIA NA MASHARTI YA MWENDELEZO
+## SURA YA KUMI — KUFUTWA KWA SHERIA NA MASHARTI YA MWENDELEZO
 
 Kufutwa kwa Sheria Na. 1 ya 1985 na 4 ya 1979
 
